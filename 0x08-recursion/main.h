@@ -5,7 +5,7 @@
  * File: main.h
  * Auth: Ola-Domain
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x07-pointers_arrays_strings directory.
+ *       used in the 0x08-recursion directory.
  */
 
 #include <stddef.h>
