@@ -3,7 +3,7 @@
 #include "3-function_like_macro.h"
 
 /**
- * main - check the code
+ * main - check the code for ALX School students.
  *
  * Return: Always 0.
  */
